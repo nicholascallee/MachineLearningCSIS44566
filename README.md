@@ -1,2 +1,2 @@
 # AlleeMachineLearning
-nicks assignments for machine learning
+These are all the assignments I completed when taking Machine Learning. 
